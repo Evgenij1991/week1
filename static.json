@@ -1,7 +1,8 @@
 {
   "headers": {
     "/*": {
-      "X-Author": "tinyakov_evgenij"
-     }
-   }
+      "X-Author": "tinyakov_evgenij",
+      "Access-Control-Allow-Origin": "*"
+    }
+  }
 }
